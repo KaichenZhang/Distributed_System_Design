@@ -1,0 +1,19 @@
+cd documents/workspace/Zhang/bin
+/bin
+wsgen -verbose -cp . servers.MTLServer -wsdl
+wsgen -verbose -cp . servers.WDCServer -wsdl
+wsgen -verbose -cp . servers.NDLServer -wsdl
+
+cd ..
+/
+wsimport -keep -d src/ -p client.MTL http://localhost:1050/mtlservice?wsdl
+wsimport -keep -d src/ -p client.WDC http://localhost:1050/wstservice?wsdl
+wsimport -keep -d src/ -p client.NDL http://localhost:1050/delservice?wsdl
+
+
+ 
+ 
+ 
+ 
+
+
