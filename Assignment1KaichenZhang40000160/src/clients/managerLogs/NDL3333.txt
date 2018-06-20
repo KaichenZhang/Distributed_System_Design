@@ -1,3 +1,0 @@
-[2016.10.13 00:14] NDL3333 count the number of all the flight records.
-[2016.10.13 00:14] NDL3333 add a flight from NewDelhi to Montreal at 2016.11.16 20:23.
-[2016.10.13 00:14] NDL3333 add a flight from NewDelhi to Montreal at 2016.12.15 12:15.

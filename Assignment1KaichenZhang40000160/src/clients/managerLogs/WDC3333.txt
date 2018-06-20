@@ -1,3 +1,0 @@
-[2016.10.13 00:15] WDC3333 count the number of all the flight records.
-[2016.10.13 00:15] WDC3333 add a flight from Washington to NewDelhi at 2016.11.12 20:50.
-[2016.10.13 00:16] WDC3333 add a flight from Washington to NewDelhi at 2016.08.08 08:08.

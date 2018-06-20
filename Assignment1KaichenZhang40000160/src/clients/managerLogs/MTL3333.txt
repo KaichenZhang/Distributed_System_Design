@@ -1,4 +1,0 @@
-[2016.10.12 20:19] MTL3333 add a flight from Montreal to NewDelhi at 2019.09.09 09:09.
-[2016.10.13 00:11] MTL3333 count the number of all the flight records.
-[2016.10.13 00:11] MTL3333 add a flight from Montreal to Washington at 2016.11.20 11:20.
-[2016.10.13 00:13] MTL3333 add a flight from Montreal to Washington at 2016.10.11 11:10.

@@ -1,0 +1,6 @@
+[2016.10.11 18:00] MTL2222 add a flight from Montreal to Washington at 2016.10.19 10:15.
+[2016.10.11 18:01] MTL2222 add a flight from Montreal to Washington at 2016.10.18 15:15.
+[2016.10.11 18:01] MTL2222 add a flight from Montreal to NewDelhi at 2016.10.20 21:23.
+[2016.10.11 18:01] MTL2222 add a flight from Montreal to NewDelhi at 2016.12.11 14:16.
+[2016.10.12 20:12] MTL2222 count the number of all the flight records.
+[2016.10.12 20:13] MTL2222 add a flight from Montreal to Washington at 2018.08.08 08:08.

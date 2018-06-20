@@ -1,8 +1,0 @@
-module DFRSApp{
-  interface ServerInterface{
-    string bookFlight(in string firstName, in string lastName, in string address, in string telephone, in string destination, in string date, in long flightClass);
-	string getBookedFlightCounts(in long recordType);
-	string editRecord(in string recordID, in string fieldName, in string newValue);
-	string transferReservation (in string passengerID, in string currentCity, in string otherCity);
-    };
-};

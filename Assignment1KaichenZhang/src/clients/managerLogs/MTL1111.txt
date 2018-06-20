@@ -1,0 +1,11 @@
+[2016.10.11 17:53] MTL1111 count the number of all the flight records.
+[2016.10.11 17:53] MTL1111 add a flight from Montreal to Washington at 2016.10.19 10:10.
+[2016.10.11 17:53] MTL1111 add a flight from Montreal to NewDelhi at 2016.11.04 20:20.
+[2016.10.11 17:56] MTL1111 add a flight from Montreal to Washington at 2016.12.12 10:50.
+[2016.10.11 18:10] MTL1111 count the number of all the flight records.
+[2016.10.11 18:10] MTL1111 add a flight from Montreal to NewDelhi at 2016.11.15 15:14.
+[2016.10.12 17:30] MTL1111 count the number of all the flight records.
+[2016.10.12 17:32] MTL1111 add a flight from Montreal to NewDelhi at 2017.11.10 11:20.
+[2016.10.12 20:01] MTL1111 add a flight from Montreal to NewDelhi at 2011.10.15 20:30.
+[2016.10.12 22:47] MTL1111 count the number of all the flight records.
+[2016.10.12 22:47] MTL1111 add a flight from Montreal to NewDelhi at 2016.11.13 20:05.
