@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema version="1.0" targetNamespace="http://servers/" xmlns:tns="http://servers/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="bookFlight" type="tns:bookFlight"/>
+
+  <xs:element name="bookFlightResponse" type="tns:bookFlightResponse"/>
+
+  <xs:element name="editRecord" type="tns:editRecord"/>
+
+  <xs:element name="editRecordResponse" type="tns:editRecordResponse"/>
+
+  <xs:element name="getBookledFlightCount" type="tns:getBookledFlightCount"/>
+
+  <xs:element name="getBookledFlightCountResponse" type="tns:getBookledFlightCountResponse"/>
+
+  <xs:element name="transferReservation" type="tns:transferReservation"/>
+
+  <xs:element name="transferReservationResponse" type="tns:transferReservationResponse"/>
+
+  <xs:complexType name="transferReservation">
+    <xs:sequence>
+      <xs:element name="arg0" type="xs:string" minOccurs="0"/>
+      <xs:element name="arg1" type="xs:string" minOccurs="0"/>
+      <xs:element name="arg2" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="transferReservationResponse">
+    <xs:sequence>
+      <xs:element name="return" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="editRecord">
+    <xs:sequence>
+      <xs:element name="arg0" type="xs:string" minOccurs="0"/>
+      <xs:element name="arg1" type="xs:string" minOccurs="0"/>
+      <xs:element name="arg2" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="editRecordResponse">
+    <xs:sequence>
+      <xs:element name="return" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="bookFlight">
+    <xs:sequence>
+      <xs:element name="arg0" type="xs:string" minOccurs="0"/>
+      <xs:element name="arg1" type="xs:string" minOccurs="0"/>
+      <xs:element name="arg2" type="xs:string" minOccurs="0"/>
+      <xs:element name="arg3" type="xs:string" minOccurs="0"/>
+      <xs:element name="arg4" type="xs:string" minOccurs="0"/>
+      <xs:element name="arg5" type="xs:string" minOccurs="0"/>
+      <xs:element name="arg6" type="xs:int"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="bookFlightResponse">
+    <xs:sequence>
+      <xs:element name="return" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="getBookledFlightCount">
+    <xs:sequence>
+      <xs:element name="arg0" type="xs:int"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="getBookledFlightCountResponse">
+    <xs:sequence>
+      <xs:element name="return" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
+
