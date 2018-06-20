@@ -1,0 +1,113 @@
+[2016.10.11 18:03] {Manager}:  added a new flight: Washington --> Montreal< 2016.11.18 10:10 >.
+[2016.10.11 18:03] {Manager}:  added a new flight: Washington --> NewDelhi< 2016.10.23 20:22 >.
+[2016.10.11 18:11] {Passenger}:  searching available dates from Washington to Washington.
+[2016.10.11 18:11] {Passenger}:  searching available dates from Washington to Montreal.
+[2016.10.11 18:11] {Passenger}:  searching available dates from Washington to NewDelhi.
+[2016.10.11 18:11] {Passenger}:  searching available dates from Washington to NewDelhi.
+[2016.10.11 18:11] {Passenger}:  searching available dates from Washington to Washington.
+[2016.10.11 18:11] {Passenger}:  searching available dates from Washington to NewDelhi.
+[2016.10.11 18:11] {Passenger}:  searching available dates from Washington to Washington.
+[2016.10.11 18:11] {Passenger}: roGx977727 booked a ticket: Washington --> Montreal< 2016.11.18 10:10 >.
+[2016.10.11 18:11] {Passenger}:  searching available dates from Washington to Montreal.
+[2016.10.11 18:11] {Passenger}:  searching available dates from Washington to Washington.
+[2016.10.11 18:11] {Passenger}:  searching available dates from Washington to NewDelhi.
+[2016.10.11 18:11] {Passenger}:  searching available dates from Washington to NewDelhi.
+[2016.10.11 18:11] {Passenger}: FzOz747681 booked a ticket: Washington --> NewDelhi< 2016.10.23 20:22 >.
+[2016.10.11 18:11] {Passenger}: rUGx003789 booked a ticket: Washington --> NewDelhi< 2016.10.23 20:22 >.
+[2016.10.11 18:11] {Passenger}: Zgyi855646 booked a ticket: Washington --> NewDelhi< 2016.10.23 20:22 >.
+[2016.10.11 18:11] {Passenger}: MRzJ779138 booked a ticket: Washington --> Montreal< 2016.11.18 10:10 >.
+[2016.10.11 18:11] {Passenger}: cZmM230417 booked a ticket: Washington --> NewDelhi< 2016.10.23 20:22 >.
+[2016.10.11 18:11] {Passenger}: Ambo915993 booked a ticket: Washington --> NewDelhi< 2016.10.23 20:22 >.
+[2016.10.11 18:11] {Passenger}:  searching available dates from Washington to Montreal.
+[2016.10.11 18:11] {Passenger}:  searching available dates from Washington to NewDelhi.
+[2016.10.11 18:11] {Passenger}:  searching available dates from Washington to Washington.
+[2016.10.11 18:11] {Passenger}: rTfK424264 booked a ticket: Washington --> Montreal< 2016.11.18 10:10 >.
+[2016.10.11 18:11] {Passenger}: uzHq368828 booked a ticket: Washington --> NewDelhi< 2016.10.23 20:22 >.
+[2016.10.11 18:11] {Passenger}:  searching available dates from Washington to NewDelhi.
+[2016.10.11 18:11] {Passenger}:  searching available dates from Washington to NewDelhi.
+[2016.10.11 18:11] {Passenger}: MGME065631 booked a ticket: Washington --> NewDelhi< 2016.10.23 20:22 >.
+[2016.10.11 18:11] {Passenger}:  searching available dates from Washington to Washington.
+[2016.10.11 18:11] {Passenger}:  searching available dates from Washington to NewDelhi.
+[2016.10.11 18:11] {Passenger}:  searching available dates from Washington to NewDelhi.
+[2016.10.11 18:11] {Passenger}: tEvD110194 booked a ticket: Washington --> NewDelhi< 2016.10.23 20:22 >.
+[2016.10.11 18:11] {Passenger}:  searching available dates from Washington to NewDelhi.
+[2016.10.11 18:11] {Passenger}:  searching available dates from Washington to NewDelhi.
+[2016.10.11 18:11] {Passenger}: iVlO546734 booked a ticket: Washington --> NewDelhi< 2016.10.23 20:22 >.
+[2016.10.11 18:11] {Passenger}:  searching available dates from Washington to NewDelhi.
+[2016.10.11 18:11] {Passenger}:  searching available dates from Washington to Montreal.
+[2016.10.11 18:11] {Passenger}: qINV032036 booked a ticket: Washington --> NewDelhi< 2016.10.23 20:22 >.
+[2016.10.11 18:11] {Passenger}: iGbs096117 booked a ticket: Washington --> NewDelhi< 2016.10.23 20:22 >.
+[2016.10.11 18:11] {Passenger}: bMiL436033 booked a ticket: Washington --> NewDelhi< 2016.10.23 20:22 >.
+[2016.10.11 18:11] {Passenger}: Iwyv922603 booked a ticket: Washington --> Montreal< 2016.11.18 10:10 >.
+[2016.10.11 18:11] {Passenger}: txRo530708 booked a ticket: Washington --> NewDelhi< 2016.10.23 20:22 >.
+[2016.10.12 17:30] {Passenger}:  searching available dates from Washington to Washington.
+[2016.10.12 17:30] {Passenger}:  searching available dates from Washington to Washington.
+[2016.10.12 17:30] {Passenger}:  searching available dates from Washington to Washington.
+[2016.10.12 17:30] {Passenger}:  searching available dates from Washington to Montreal.
+[2016.10.12 17:30] {Passenger}:  searching available dates from Washington to Washington.
+[2016.10.12 17:30] {Passenger}:  searching available dates from Washington to Washington.
+[2016.10.12 17:30] {Passenger}:  searching available dates from Washington to NewDelhi.
+[2016.10.12 17:30] {Passenger}:  searching available dates from Washington to Montreal.
+[2016.10.12 17:30] {Passenger}:  searching available dates from Washington to NewDelhi.
+[2016.10.12 17:30] {Passenger}:  searching available dates from Washington to Montreal.
+[2016.10.12 17:30] {Passenger}:  searching available dates from Washington to Montreal.
+[2016.10.12 17:30] {Passenger}:  searching available dates from Washington to Washington.
+[2016.10.12 17:30] {Passenger}: bmCM568034 booked a ticket: Washington --> Montreal< 2016.11.18 10:10 >.
+[2016.10.12 17:30] {Passenger}: JATu224788 booked a ticket: Washington --> Montreal< 2016.11.18 10:10 >.
+[2016.10.12 17:30] {Passenger}: AYsy595292 booked a ticket: Washington --> Montreal< 2016.11.18 10:10 >.
+[2016.10.12 17:30] {Passenger}: QpDQ138108 booked a ticket: Washington --> NewDelhi< 2016.10.23 20:22 >.
+[2016.10.12 17:30] {Passenger}: XAIH016187 booked a ticket: Washington --> Montreal< 2016.11.18 10:10 >.
+[2016.10.12 17:30] {Passenger}: BJWs078345 booked a ticket: Washington --> NewDelhi< 2016.10.23 20:22 >.
+[2016.10.12 17:30] {Passenger}:  searching available dates from Washington to Montreal.
+[2016.10.12 17:30] {Passenger}: rKvW634885 booked a ticket: Washington --> Montreal< 2016.11.18 10:10 >.
+[2016.10.12 17:38] {Passenger}:  searching available dates from Washington to NewDelhi.
+[2016.10.12 17:38] {Passenger}:  searching available dates from Washington to Washington.
+[2016.10.12 17:38] {Passenger}:  searching available dates from Washington to Montreal.
+[2016.10.12 17:38] {Passenger}:  searching available dates from Washington to Washington.
+[2016.10.12 17:38] {Passenger}:  searching available dates from Washington to Montreal.
+[2016.10.12 17:38] {Passenger}:  searching available dates from Washington to Montreal.
+[2016.10.12 17:38] {Passenger}:  searching available dates from Washington to Washington.
+[2016.10.12 17:38] {Passenger}:  searching available dates from Washington to Montreal.
+[2016.10.12 17:38] {Passenger}:  searching available dates from Washington to Washington.
+[2016.10.12 17:38] {Passenger}:  searching available dates from Washington to Washington.
+[2016.10.12 17:38] {Passenger}: soWx227383 booked a ticket: Washington --> NewDelhi< 2016.10.23 20:22 >.
+[2016.10.12 17:38] {Passenger}: kdjG332932 booked a ticket: Washington --> Montreal< 2016.11.18 10:10 >.
+[2016.10.12 17:38] {Passenger}: PQSO004803 booked a ticket: Washington --> Montreal< 2016.11.18 10:10 >.
+[2016.10.12 17:38] {Passenger}: msyV645196 booked a ticket: Washington --> Montreal< 2016.11.18 10:10 >.
+[2016.10.12 17:38] {Passenger}: vfLy067280 booked a ticket: Washington --> Montreal< 2016.11.18 10:10 >.
+[2016.10.12 20:09] {Passenger}:  searching available dates from Washington to NewDelhi.
+[2016.10.12 20:09] {Passenger}:  searching available dates from Washington to NewDelhi.
+[2016.10.12 20:09] {Passenger}:  searching available dates from Washington to Montreal.
+[2016.10.12 20:09] {Passenger}:  searching available dates from Washington to Montreal.
+[2016.10.12 20:09] {Passenger}:  searching available dates from Washington to NewDelhi.
+[2016.10.12 20:09] {Passenger}:  searching available dates from Washington to Montreal.
+[2016.10.12 20:09] {Passenger}: hPJq561498 booked a ticket: Washington --> Montreal< 2016.11.18 10:10 >.
+[2016.10.12 20:09] {Passenger}: TcZl048739 booked a ticket: Washington --> Montreal< 2016.11.18 10:10 >.
+[2016.10.12 20:09] {Passenger}: cDZq611827 booked a ticket: Washington --> NewDelhi< 2016.10.23 20:22 >.
+[2016.10.12 20:09] {Passenger}: raMm199343 booked a ticket: Washington --> NewDelhi< 2016.10.23 20:22 >.
+[2016.10.12 20:09] {Passenger}: ALkW387796 booked a ticket: Washington --> Montreal< 2016.11.18 10:10 >.
+[2016.10.12 20:09] {Passenger}: pKiM348905 booked a ticket: Washington --> NewDelhi< 2016.10.23 20:22 >.
+[2016.10.12 20:10] {Passenger}:  searching available dates from Washington to NewDelhi.
+[2016.10.12 20:10] {Passenger}: bIuo970183 booked a ticket: Washington --> NewDelhi< 2016.10.23 20:22 >.
+[2016.10.12 21:25] {Manager}:  counting the number of all the flight records.
+[2016.10.12 21:25] {Manager}:  added a new flight: Washington --> Montreal< 2016.08.08 07:07 >.
+[2016.10.12 22:47] {Passenger}:  searching available dates from Washington to NewDelhi.
+[2016.10.12 22:47] {Passenger}:  searching available dates from Washington to Montreal.
+[2016.10.12 22:47] {Passenger}:  searching available dates from Washington to NewDelhi.
+[2016.10.12 22:47] {Passenger}:  searching available dates from Washington to NewDelhi.
+[2016.10.12 22:47] {Passenger}:  searching available dates from Washington to Washington.
+[2016.10.12 22:47] {Passenger}:  searching available dates from Washington to NewDelhi.
+[2016.10.12 22:47] {Passenger}:  searching available dates from Washington to NewDelhi.
+[2016.10.12 22:47] {Passenger}:  searching available dates from Washington to NewDelhi.
+[2016.10.12 22:47] {Passenger}:  searching available dates from Washington to Washington.
+[2016.10.12 22:47] {Passenger}:  searching available dates from Washington to NewDelhi.
+[2016.10.12 22:47] {Passenger}:  searching available dates from Washington to Washington.
+[2016.10.12 22:47] {Passenger}:  searching available dates from Washington to Washington.
+[2016.10.12 22:47] {Passenger}: cpSk823117 booked a ticket: Washington --> NewDelhi< 2016.10.23 20:22 >.
+[2016.10.12 22:47] {Passenger}: Nlbo354792 booked a ticket: Washington --> NewDelhi< 2016.10.23 20:22 >.
+[2016.10.12 22:47] {Passenger}: ZTOe934923 booked a ticket: Washington --> NewDelhi< 2016.10.23 20:22 >.
+[2016.10.12 22:47] {Passenger}: CIxw158435 booked a ticket: Washington --> NewDelhi< 2016.10.23 20:22 >.
+[2016.10.12 22:47] {Passenger}: cJTW146515 booked a ticket: Washington --> NewDelhi< 2016.10.23 20:22 >.
+[2016.10.12 22:47] {Passenger}: nvDO345696 booked a ticket: Washington --> Montreal< 2016.11.18 10:10 >.
+[2016.10.12 22:47] {Passenger}: kpvH721258 booked a ticket: Washington --> NewDelhi< 2016.10.23 20:22 >.
+[2016.10.12 22:47] {Passenger}: zcpK663130 booked a ticket: Washington --> NewDelhi< 2016.10.23 20:22 >.

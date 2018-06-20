@@ -1,0 +1,76 @@
+{
+  "flightRecords": [
+    {
+      "recordID": "wAg36379",
+      "departure": "Montreal",
+      "destination": "NewDelhi",
+      "firstSeats": "1",
+      "businessSeats": "24",
+      "economySeats": "189",
+      "dateOfFlight": "2016.11.15 15:14"
+    },
+    {
+      "recordID": "bzu15304",
+      "departure": "Montreal",
+      "destination": "NewDelhi",
+      "firstSeats": "6",
+      "businessSeats": "21",
+      "economySeats": "175",
+      "dateOfFlight": "2017.11.10 11:20"
+    },
+    {
+      "recordID": "hjR51733",
+      "departure": "Montreal",
+      "destination": "NewDelhi",
+      "firstSeats": "4",
+      "businessSeats": "28",
+      "economySeats": "103",
+      "dateOfFlight": "2011.10.15 20:30"
+    },
+    {
+      "recordID": "RiK72133",
+      "departure": "Montreal",
+      "destination": "Washington",
+      "firstSeats": "4",
+      "businessSeats": "24",
+      "economySeats": "132",
+      "dateOfFlight": "2018.08.08 08:08"
+    },
+    {
+      "recordID": "LeK63159",
+      "departure": "Montreal",
+      "destination": "NewDelhi",
+      "firstSeats": "2",
+      "businessSeats": "28",
+      "economySeats": "133",
+      "dateOfFlight": "2019.09.09 09:09"
+    },
+    {
+      "recordID": "Ftd61726",
+      "departure": "Montreal",
+      "destination": "NewDelhi",
+      "firstSeats": "7",
+      "businessSeats": "29",
+      "economySeats": "189",
+      "dateOfFlight": "2016.11.13 20:05"
+    },
+    {
+      "recordID": "Nce78988",
+      "departure": "Montreal",
+      "destination": "Washington",
+      "firstSeats": "0",
+      "businessSeats": "25",
+      "economySeats": "110",
+      "dateOfFlight": "2016.11.20 11:20"
+    },
+    {
+      "recordID": "gVn41098",
+      "departure": "Montreal",
+      "destination": "Washington",
+      "firstSeats": "3",
+      "businessSeats": "27",
+      "economySeats": "169",
+      "dateOfFlight": "2016.10.11 11:10"
+    }
+  ]
+}

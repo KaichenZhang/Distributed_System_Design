@@ -1,0 +1,40 @@
+{
+  "flightRecords": [
+    {
+      "recordID": "djd35437",
+      "departure": "NewDelhi",
+      "destination": "Montreal",
+      "firstSeats": "9",
+      "businessSeats": "29",
+      "economySeats": "132",
+      "dateOfFlight": "2016.12.15 20:20"
+    },
+    {
+      "recordID": "yfK15746",
+      "departure": "NewDelhi",
+      "destination": "Washington",
+      "firstSeats": "2",
+      "businessSeats": "21",
+      "economySeats": "127",
+      "dateOfFlight": "2016.12.18 14:10"
+    },
+    {
+      "recordID": "jZa75828",
+      "departure": "NewDelhi",
+      "destination": "Washington",
+      "firstSeats": "7",
+      "businessSeats": "22",
+      "economySeats": "117",
+      "dateOfFlight": "2016.10.19 20:20"
+    },
+    {
+      "recordID": "jix05205",
+      "departure": "NewDelhi",
+      "destination": "Montreal",
+      "firstSeats": "6",
+      "businessSeats": "27",
+      "economySeats": "174",
+      "dateOfFlight": "2016.12.15 12:15"
+    }
+  ]
+}

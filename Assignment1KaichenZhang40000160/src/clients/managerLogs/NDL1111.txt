@@ -1,0 +1,4 @@
+[2016.10.11 18:02] NDL1111 add a flight from NewDelhi to Montreal at 2016.12.15 20:20.
+[2016.10.11 18:02] NDL1111 add a flight from NewDelhi to Washington at 2016.12.18 14:10.
+[2016.10.12 17:38] NDL1111 count the number of all the flight records.
+[2016.10.12 17:38] NDL1111 add a flight from NewDelhi to Washington at 2016.10.19 20:20.
