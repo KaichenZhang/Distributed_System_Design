@@ -1,5 +1,5 @@
 # Distributed_System_Design
-COMP6231
+COMP6231</br>
 Acknowledgement to Dr. R. Jayakumar for providing us such a knowledge-rich curriculum.</br>
 Also I'd like to give my greatest gratefulness to my teammates Yongping Gao, Zhen Du and Yue Li for their selfless help to me and contributions to the project.
 
